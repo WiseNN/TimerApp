@@ -6,7 +6,7 @@ This app allows you to start, stop and reset timers, all while displaying elapse
 
 
 
-
+<br />
 
 **Features to come:** 
 
