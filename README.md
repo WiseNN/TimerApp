@@ -6,8 +6,8 @@ This app allows you to start, stop and reset timers, all while displaying elapse
 
 **Features to come:** 
 
-- Map Route Planner
-- Speed Tracker
+- [ ] Map Route Planner
+- [ ] Speed Tracker
 
 
 ![hippo](./TimerApp_Demo_SD.gif)
